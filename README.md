@@ -1,5 +1,5 @@
 ﻿# NoBlock - VDSzone
 
-CS2 NoBlock Eklentisi
+ **This plugin is specifically built for VDSzone and will not work on other systems.**
 
-İndirmek için [Releases](https://github.com/candaysa/NoBlock-VDSzone/releases) sekmesine gidin.
+Download from [Releases](https://github.com/candaysa/NoBlock-VDSzone/releases) section.
